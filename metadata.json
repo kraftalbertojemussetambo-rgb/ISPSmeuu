@@ -1,0 +1,6 @@
+{
+  "name": "ISPS Dark",
+  "description": "Plataforma educacional para estudantes e explicadores do Instituto Superior Politécnico e comunidade acadêmica. Aprender, Ensinar, Partilhar.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
